@@ -1,0 +1,11 @@
+[package]
+name = "owned"
+version = "0.1.0"
+authors = ["Peter Todd <pete@petertodd.org>"]
+edition = "2018"
+repository = "https://github.com/petertodd/owned"
+license = "MIT/Apache-2.0"
+description = "Traits for taking ownership of values"
+
+[dev-dependencies]
+dropcheck = "0.1.0"
